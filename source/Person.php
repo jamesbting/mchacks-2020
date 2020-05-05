@@ -1,5 +1,10 @@
+<?php
 class Person {
-    private
+    private $age;
+    private $name;
+    private $username;
+    private $hashPassword;
 
     // Constructor
 }
+?>
